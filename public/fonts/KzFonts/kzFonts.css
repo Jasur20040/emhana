@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'KZ-Champion-Script-Pro-Regular';
+    src: url('KZPF_Champion_Script_Pro.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-OPTIMA-Regular';
+    src: url('KZOPTIMA.TTF') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-OPTIMA-Bold';
+    src: url('KZOPTIMA_0.TTF') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-Decor-Regular';
+    src: url('KZDecor.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-Rosa-Marena-Regular';
+    src: url('KZ-Rosa-Marena.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-Vivaldi-Regular';
+    src: url('KZ_Vivaldi_kz.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-Gropled-Bold';
+    src: url('KZ_Gropled.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-Sign-Painter-Regular';
+    src: url('KZ_Sign_Painter_kz.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-Domain-Display-Regular';
+    src: url('KZDOMAINDISPLAY-REGULAR.TTF') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-Nizami-Regular';
+    src: url('KZ_Nizami_kz_.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-MONOTYPE-CORSIVA-Regular';
+    src: url('KZ_MONOTYPE_CORSIVA.TTF') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baltica-Regular';
+    src: url('Baltica_KZ.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KZ-Andantino-script-Regular';
+    src: url('KZ_Andantino_script.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}

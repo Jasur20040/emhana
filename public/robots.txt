@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /*?page=*&per-page=*
+Allow: /suret/
+Sitemap: https://constructor.shaqyru.kz/sitemap.xml
+
+User-agent: Google
+Allow: /
+Disallow: /admin/
+Disallow: /*?page=*&per-page=*
+Allow: /*.css$
+Allow: /*.js$
+Allow: /suret/
+Sitemap: https://constructor.shaqyru.kz/sitemap.xml
+
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+Disallow: /*?page=*&per-page=*
+Allow: /suret/
+Host: https://constructor.shaqyru.kz
+Sitemap: https://constructor.shaqyru.kz/sitemap.xml

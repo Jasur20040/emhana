@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Sanasoft-Art-Script_kz-Regular';
+    src: url('Sanasoft-Art-Script_kz.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kz_Copperplate-Bold';
+    src: url('KZ_Copperplate-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Klementina-Regular';
+    src: url('KZKlementina-Regular.otf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lobster-Regular';
+    src: url('Lobster-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nautilus-Pompilius-Regular';
+    src: url('KZ_Nautilus.otf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kurale-Regular';
+    src: url('Kurale-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
